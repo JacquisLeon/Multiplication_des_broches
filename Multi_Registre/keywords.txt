@@ -1,0 +1,12 @@
+# Syntax Coloring Map For Multi_Registre
+
+# Datatypes (KEYWORD1)
+Multi_Registre	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+Multi_Registre	KEYWORD2
+writ KEYWORD2
+
+# Instances (KEYWORD2)
+
+# Constants (LITERAL1)
